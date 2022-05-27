@@ -1,0 +1,19 @@
+
+body {
+    background-color: cornsilk;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 500px;
+}
+
+p {
+    background-color: bisque;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+figcaption {
+    font-weight: 600;
+}
